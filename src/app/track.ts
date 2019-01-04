@@ -1,5 +1,5 @@
 export interface Track {
-    trackNumbner: number;
+    trackNumber: number;
     trackName: string;
     trackLenght: string;
     trackPrice: number;
